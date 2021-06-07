@@ -41,7 +41,7 @@ Ensure git is installed on your machine before running. To do so, use the comman
   </tr>
   
   <tr>
-    <th><td><strong>Pulling all unsynced changes from server</strong></td></th>
+    <td><strong>Pulling all unsynced changes from server</strong></td>
     <td>git pull</td>
   </tr>
 <table>
