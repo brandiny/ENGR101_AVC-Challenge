@@ -50,3 +50,7 @@ Ensure git is installed on your machine before running. To do so, use the comman
 There are two helper classes within the program: the Car class and the Camera class. A class is a “package of code that allows for object oriented organising. A struct is an “abstract data type” that organises data together.
 
 The Car class is responsible for directly interacting with the motor servos of the hardware, and maneuvering the robot. The Camera class is responsible for interacting with the video stream, and using algorithms to determine the direction to move the robot in. The Camera class is dependent on Car. The Pixel struct represents an image pixel with RGB attributes. The HSV struct represents an image pixel with HSV attributes.
+
+  
+## Further reading
+If you would like further insight into algorithms used, project planning, constraints, hindsight realisations, please read the engineering report attached within the repo.
